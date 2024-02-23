@@ -1,0 +1,39 @@
+{
+  "MarketingTelegram": "https://app.agroupsoft.com/cron/check.php?id=2&key={0}",
+  "MarketingTelegramNew": {
+    "url":"https://app.agroupsoft.com/cron/check.php?id=2&key={0}",
+    "version": "7.0",
+    "link_update": "https://github.com/tinhdeeptry2k3/Agroup/raw/main/MainTeleFull.exe"
+  },
+  "MarketingFacebook": "https://app.agroupsoft.com/cron/check.php?id=1&key={0}",
+  "TelegramSpam": {
+    "url": "https://app.agroupsoft.com/cron/check.php?id=8&key={0}",
+    "version": "2.1",
+    "link_update": "https://github.com/tinhdeeptry2k3/Agroup/raw/main/MainSpam.exe"
+  },
+  "TelegramAdd": {
+    "url": "https://app.agroupsoft.com/cron/check.php?id=9&key={0}",
+    "version": "1.7",
+    "link_update": "https://github.com/tinhdeeptry2k3/Agroup/raw/main/MainAdd.exe"
+  },
+  "TelegramSeeder": {
+    "url": "https://app.agroupsoft.com/cron/check.php?id=10&key={0}",
+    "version": "1.6",
+    "link_update": "https://github.com/tinhdeeptry2k3/Agroup/raw/main/MainSeeder.exe"
+  },
+  "TelegramExtension": {
+    "url": "https://app.agroupsoft.com/cron/check.php?id=11&key={0}",
+    "version": "1.6",
+    "link_update": "https://github.com/tinhdeeptry2k3/Agroup/raw/main/MainExtension.exe"
+  },
+  "FacebookPost": {
+    "url": "https://app.agroupsoft.com/cron/check.php?id=12&key={0}",
+    "version": "1.6",
+    "link_update": "https://github.com/tinhdeeptry2k3/Agroup/raw/main/MainFBPost.exe"
+  },
+  "ChromeAntidetect": {
+    "url": "https://app.agroupsoft.com/cron/check.php?id=13&key={0}",
+    "version": "1.6",
+    "link_update": "https://github.com/tinhdeeptry2k3/Agroup/raw/main/MainFBPost.exe"
+  }
+}
